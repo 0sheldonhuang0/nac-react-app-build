@@ -1,22 +1,35 @@
 {
   "files": {
     "main.css": "/static/css/main.73efbf52.chunk.css",
-    "main.js": "/static/js/main.02ca12b5.chunk.js",
-    "main.js.map": "/static/js/main.02ca12b5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.09d42802.js",
-    "runtime-main.js.map": "/static/js/runtime-main.09d42802.js.map",
-    "static/js/2.298614c9.chunk.js": "/static/js/2.298614c9.chunk.js",
-    "static/js/2.298614c9.chunk.js.map": "/static/js/2.298614c9.chunk.js.map",
+    "main.js": "/static/js/main.1e37ceb9.chunk.js",
+    "main.js.map": "/static/js/main.1e37ceb9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.56ea1890.js",
+    "runtime-main.js.map": "/static/js/runtime-main.56ea1890.js.map",
+    "static/js/2.141bc4de.chunk.js": "/static/js/2.141bc4de.chunk.js",
+    "static/js/2.141bc4de.chunk.js.map": "/static/js/2.141bc4de.chunk.js.map",
+    "static/js/3.3ec93744.chunk.js": "/static/js/3.3ec93744.chunk.js",
+    "static/js/3.3ec93744.chunk.js.map": "/static/js/3.3ec93744.chunk.js.map",
+    "static/js/4.2b7300f2.chunk.js": "/static/js/4.2b7300f2.chunk.js",
+    "static/js/4.2b7300f2.chunk.js.map": "/static/js/4.2b7300f2.chunk.js.map",
+    "static/js/5.b8ce7683.chunk.js": "/static/js/5.b8ce7683.chunk.js",
+    "static/js/5.b8ce7683.chunk.js.map": "/static/js/5.b8ce7683.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.73efbf52.chunk.css.map": "/static/css/main.73efbf52.chunk.css.map",
-    "static/js/2.298614c9.chunk.js.LICENSE.txt": "/static/js/2.298614c9.chunk.js.LICENSE.txt",
+    "static/js/2.141bc4de.chunk.js.LICENSE.txt": "/static/js/2.141bc4de.chunk.js.LICENSE.txt",
+    "static/media/about.82e46104.md": "/static/media/about.82e46104.md",
     "static/media/espace_sample_picture.jpg": "/static/media/espace_sample_picture.030e39d3.jpg",
-    "static/media/logo-am-84.205d0c8b.png": "/static/media/logo-am-84.205d0c8b.png"
+    "static/media/index-icon-1.e031f8c7.svg": "/static/media/index-icon-1.e031f8c7.svg",
+    "static/media/index-icon-2.017a9e53.svg": "/static/media/index-icon-2.017a9e53.svg",
+    "static/media/index-icon-3.2cb6d22e.svg": "/static/media/index-icon-3.2cb6d22e.svg",
+    "static/media/index_img_1.22520ab5.jpg": "/static/media/index_img_1.22520ab5.jpg",
+    "static/media/logo-am-84.205d0c8b.png": "/static/media/logo-am-84.205d0c8b.png",
+    "static/media/productCurvyLines.58c56f77.png": "/static/media/productCurvyLines.58c56f77.png",
+    "static/media/user_guide.4b3d3c4c.md": "/static/media/user_guide.4b3d3c4c.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.09d42802.js",
-    "static/js/2.298614c9.chunk.js",
+    "static/js/runtime-main.56ea1890.js",
+    "static/js/2.141bc4de.chunk.js",
     "static/css/main.73efbf52.chunk.css",
-    "static/js/main.02ca12b5.chunk.js"
+    "static/js/main.1e37ceb9.chunk.js"
   ]
 }
